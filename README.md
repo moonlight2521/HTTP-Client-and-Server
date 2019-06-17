@@ -10,9 +10,9 @@ Steps:
 
 HTTPClient:
 >Compile: Javac HTTPClient.java
->Run: Java HTTPClient localhost:[port#]/path   
+>Run: Java HTTPClient localhost:[port#]/path<   
 >Or
->Run: Java HTTPClient PUT localhost:[port#]/path  
+>Run: Java HTTPClient PUT localhost:[port#]/path  <
 
 
 # Examples
