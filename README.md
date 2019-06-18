@@ -2,9 +2,9 @@
 
 # HTTP-Client-and-Server
 
-simple implemention of HTTP client and HTTP server using Java.</b>
-client has two methods of HTTP: GET and PUT.</b>
-server is able to handle both HTTP commands for GET and PUT.</b>
+simple implemention of HTTP client and HTTP server using Java.</br>
+client has two methods of HTTP: GET and PUT.</br>
+server is able to handle both HTTP commands for GET and PUT.</br>
 _________________________________________________________________
 Steps:
 
