@@ -17,15 +17,15 @@ _____________________________________________________________________________
 Example1:
 
 HTTPServer:
-  Zuns-MacBook-Pro:Zun_Lin zunlin$ javac HTTPServer.java 
-  Zuns-MacBook-Pro:Zun_Lin zunlin$ java HTTPServer 10000
-  Listening on port 10000...
-  Client Made Connection
-  GET /index.html HTTP/1.0
-  Host: localhost
-  Time: Wed Apr 10 20:04:07 EDT 2019
-  User-Agent: VCU-CMSC491
-  User-name: Zun
+  >Zuns-MacBook-Pro:Zun_Lin zunlin$ javac HTTPServer.java 
+  >Zuns-MacBook-Pro:Zun_Lin zunlin$ java HTTPServer 10000
+  >Listening on port 10000...
+  >Client Made Connection
+  >GET /index.html HTTP/1.0
+  >Host: localhost
+  >Time: Wed Apr 10 20:04:07 EDT 2019
+  >User-Agent: VCU-CMSC491
+  >User-name: Zun
 
 
 HTTPClient:
