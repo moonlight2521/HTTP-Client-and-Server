@@ -1,18 +1,16 @@
 # HTTP-Client-and-Server
-<p>
 Steps:
 
 HTTPServer:
 
-Compile: Javac HTTPServer.java </n>
-Run: Java HTTPSerer port#
+<p>Compile: Javac HTTPServer.java </p>
+<p>Run: Java HTTPSerer port#</p>
 
 HTTPClient:
-Compile: Javac HTTPClient.java
-Run: Java HTTPClient localhost:port#/path 
-Or
-Run: Java HTTPClient PUT localhost:port#/path 
-</p>
+<p>Compile: Javac HTTPClient.java</p>
+<p>Run: Java HTTPClient localhost:port#/path </p>
+<p>Or</p>
+<p>Run: Java HTTPClient PUT localhost:port#/path </p>
 
 # Examples
 _____________________________________________________________________________
