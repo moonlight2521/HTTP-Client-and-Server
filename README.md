@@ -19,36 +19,37 @@ Example1:
 HTTPServer:
   >Zuns-MacBook-Pro:Zun_Lin zunlin$ javac HTTPServer.java <br>
   >Zuns-MacBook-Pro:Zun_Lin zunlin$ java HTTPServer 10000 <br>
-  >Listening on port 10000...
-  >Client Made Connection
-  >GET /index.html HTTP/1.0
-  >Host: localhost
-  >Time: Wed Apr 10 20:04:07 EDT 2019
-  >User-Agent: VCU-CMSC491
-  >User-name: Zun
+  >Listening on port 10000...<br>
+  >Client Made Connection<br>
+  >GET /index.html HTTP/1.0<br>
+  >Host: localhost<br>
+  >Time: Wed Apr 10 20:04:07 EDT 2019<br>
+  >User-Agent: VCU-CMSC491<br>
+  >User-name: Zun<br>
 
 
 HTTPClient:
-HTTPClient.java	HTTPServer.java
-Zuns-MacBook-Pro:Zun_Lin zunlin$ javac HTTPClient.java 
-Zuns-MacBook-Pro:Zun_Lin zunlin$ java HTTPClient localhost:10000/index.html
-HTTP/1.0 200 OK
-Time: Wed Apr 10 20:04:07 EDT 2019
-Last  Modified: Wed Apr 10 20:03:02 EDT 2019
+>HTTPClient.java	HTTPServer.java<br>
+>Zuns-MacBook-Pro:Zun_Lin zunlin$ javac HTTPClient.java <br>
+>Zuns-MacBook-Pro:Zun_Lin zunlin$ java HTTPClient localhost:10000/index.html<br>
+>HTTP/1.0 200 OK<br>
+>Time: Wed Apr 10 20:04:07 EDT 2019<br>
+>Last  Modified: Wed Apr 10 20:03:02 EDT 2019<br>
 
 
 ____________________________________________________________________________
 Example2(from browser):
+
 HTTPServer:
-GET / HTTP/1.1
-Host: localhost:10000
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+GET / HTTP/1.1<br>
+Host: localhost:10000<br>
+Connection: keep-alive<br>
+Upgrade-Insecure-Requests: 1<br>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36<br>
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,zh-TW;q=0.6
-Cookie: io=-cZEFleqDL83mPMjAAAV
+Accept-Encoding: gzip, deflate, br<br>
+Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,zh-TW;q=0.6<br>
+Cookie: io=-cZEFleqDL83mPMjAAAV<br>
 
 Client:
 Google chrome
