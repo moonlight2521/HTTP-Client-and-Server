@@ -5,7 +5,7 @@ Steps:
 >HTTPServer:
 
 >Compile: Javac HTTPServer.java
->Run: Java HTTPSerer port#
+>Run: Java HTTPSerer port
 
 
 HTTPClient:
