@@ -3,8 +3,8 @@ Steps:
 
 HTTPServer:
 
-<p>Compile: Javac HTTPServer.java </p>
-<p>Run: Java HTTPSerer port#</p>
+><p>Compile: Javac HTTPServer.java </p>
+><p>Run: Java HTTPSerer port#</p>
 
 HTTPClient:
 <p>Compile: Javac HTTPClient.java</p>
