@@ -17,9 +17,9 @@ _____________________________________________________________________________
 Example1:
 
 HTTPServer:
-  >Zuns-MacBook-Pro:Zun_Lin zunlin$ javac HTTPServer.java 
-  >Zuns-MacBook-Pro:Zun_Lin zunlin$ java HTTPServer 10000
-  >Listening on port 10000...
+  >Zuns-MacBook-Pro:Zun_Lin zunlin$ javac HTTPServer.java \s
+  >Zuns-MacBook-Pro:Zun_Lin zunlin$ java HTTPServer 10000 \s
+  >Listening on port 10000... \s
   >Client Made Connection
   >GET /index.html HTTP/1.0
   >Host: localhost
