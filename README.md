@@ -5,14 +5,14 @@ Steps:
 >HTTPServer:
 
 >Compile: Javac HTTPServer.java
->Run: Java HTTPSerer [port#]
+>Run: Java HTTPSerer port#
 
 
 HTTPClient:
 >Compile: Javac HTTPClient.java
->Run: Java HTTPClient localhost:[port#]/path<   
+>Run: Java HTTPClient localhost:port#/path 
 >Or
->Run: Java HTTPClient PUT localhost:[port#]/path  <
+>Run: Java HTTPClient PUT localhost:port#/path 
 
 
 # Examples
